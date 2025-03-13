@@ -1,0 +1,21 @@
+[13 Mar, 2025 - 16:11:48:1148] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: ac-rinoagb-shard-00-02.8fkp40v.mongodb.net[39m
+[34m[39m
+[13 Mar, 2025 - 16:11:48:1148] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[13 Mar, 2025 - 16:11:48:1148] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[13 Mar, 2025 - 16:15:15:1515] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: ac-rinoagb-shard-00-02.8fkp40v.mongodb.net[39m
+[34m[39m
+[13 Mar, 2025 - 16:15:15:1515] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[13 Mar, 2025 - 16:15:15:1515] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[13 Mar, 2025 - 19:26:37:2637] [31merror[39m: [31mMongoDB connection error:  querySrv ETIMEOUT _mongodb._tcp.cluster0.8fkp40v.mongodb.net[39m
+[13 Mar, 2025 - 19:28:45:2845] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: ac-rinoagb-shard-00-00.8fkp40v.mongodb.net[39m
+[34m[39m
+[13 Mar, 2025 - 19:28:45:2845] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[13 Mar, 2025 - 19:28:45:2845] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
+[13 Mar, 2025 - 19:30:59:3059] [34minfo[39m: [34m[39m
+[34m☘️  MongoDB Connected! Db host: ac-rinoagb-shard-00-00.8fkp40v.mongodb.net[39m
+[34m[39m
+[13 Mar, 2025 - 19:30:59:3059] [34minfo[39m: [34m📑 Visit the documentation at: http://localhost:8080[39m
+[13 Mar, 2025 - 19:30:59:3059] [34minfo[39m: [34m⚙️  Server is running on port: 8080[39m
