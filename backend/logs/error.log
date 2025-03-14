@@ -1,1 +1,22 @@
 [13 Mar, 2025 - 19:26:37:2637] [31merror[39m: [31mMongoDB connection error:  querySrv ETIMEOUT _mongodb._tcp.cluster0.8fkp40v.mongodb.net[39m
+[13 Mar, 2025 - 20:13:37:1337] [31merror[39m: [31mMongoDB connection error:  connect ETIMEDOUT 13.234.151.106:27017[39m
+[13 Mar, 2025 - 20:16:53:1653] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 20:16:53:1653] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[13 Mar, 2025 - 21:59:19:5919] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 21:59:19:5919] [31merror[39m: [31mError:  getaddrinfo ENOTFOUND __mailtrap_smtp_host__[39m
+[13 Mar, 2025 - 22:28:30:2830] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 22:28:31:2831] [31merror[39m: [31mError:  Mail command failed: 550 5.7.1 Sending from domain gmail.com is not allowed[39m
+[13 Mar, 2025 - 22:35:19:3519] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 22:35:19:3519] [31merror[39m: [31mError:  Mail command failed: 550 5.7.1 Sending from domain  is not allowed[39m
+[13 Mar, 2025 - 22:42:58:4258] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 22:42:58:4258] [31merror[39m: [31mError:  Mail command failed: 550 5.7.1 Sending from domain sachinsingh.com is not allowed[39m
+[13 Mar, 2025 - 22:49:56:4956] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 22:49:56:4956] [31merror[39m: [31mError:  Mail command failed: 550 5.7.1 Sending from domain sachinsg17rp.com is not allowed[39m
+[13 Mar, 2025 - 22:55:20:5520] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 22:55:20:5520] [31merror[39m: [31mError:  connect ETIMEDOUT 54.158.149.228:587[39m
+[13 Mar, 2025 - 22:57:45:5745] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 22:57:45:5745] [31merror[39m: [31mError:  Mail command failed: 550 5.7.1 Sending from domain gmail.com is not allowed[39m
+[13 Mar, 2025 - 22:59:23:5923] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 22:59:23:5923] [31merror[39m: [31mError:  Mail command failed: 550 5.7.1 Sending from domain gmail.com is not allowed[39m
+[13 Mar, 2025 - 23:05:04:54] [31merror[39m: [31mEmail service failed silently. Make sure you have provided your MAILTRAP credentials in the .env file[39m
+[13 Mar, 2025 - 23:05:04:54] [31merror[39m: [31mError:  connect ETIMEDOUT 54.158.149.228:587[39m

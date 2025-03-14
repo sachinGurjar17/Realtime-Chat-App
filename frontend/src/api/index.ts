@@ -3,7 +3,7 @@ import { LocalStorage } from "../utils";
 
 
 const apiClient = axios.create({
-  baseURL: "http://localhost:3000",
+  baseURL: "http://localhost:8080/api/v1",
   withCredentials: true,
   timeout: 120000,
 });

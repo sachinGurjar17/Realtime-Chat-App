@@ -101,6 +101,9 @@ const registerUser = asyncHandler(async (req, res) => {
 });
 
 const loginUser = asyncHandler(async (req, res) => {
+
+  console.log("inside login");
+  
   const { email, username, password } = req.body;
 
   if (!username && !email) {

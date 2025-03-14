@@ -36,7 +36,7 @@ import { mongoIdPathVariableValidator } from "../validators/common/mongodb.valid
 const router = Router();
 
 // Unsecured route
-router.route("/register").post(userRegisterValidator(), validate, registerUser);
+router.route("/register").post(userRegisterValidator(),validate, registerUser);
 router.route("/login").post(userLoginValidator(), validate, loginUser);
 router.route("/refresh-token").post(refreshAccessToken);
 router.route("/verify-email/:verificationToken").get(verifyEmail);

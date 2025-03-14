@@ -1,6 +1,6 @@
 import passport from "passport";
 import { Strategy as GoogleStrategy } from "passport-google-oauth20";
-import { User } from "../models/apps/auth/user.models.js";
+import { User } from "../models/user.js";
 import { UserLoginType, UserRolesEnum } from "../constants.js";
 import { ApiError } from "../utils/ApiError.js";
 import { Strategy as GitHubStrategy } from "passport-github2";
